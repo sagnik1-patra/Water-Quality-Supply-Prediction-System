@@ -1,0 +1,13 @@
+{
+    "RMSE": 0.016295843308245548,
+    "R2_Score": 0.0,
+    "Optimizer": "Hybrid ALOA + PSO",
+    "Best_Params": {
+        "filters": 64,
+        "lstm_units": 32,
+        "dropout": 0.2793789532993932,
+        "lr": 0.001
+    },
+    "Rows": 1991,
+    "Cols": 1
+}

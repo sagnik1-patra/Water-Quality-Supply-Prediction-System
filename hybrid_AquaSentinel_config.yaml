@@ -1,0 +1,10 @@
+features:
+- year
+model_params:
+  dropout: 0.2793789532993932
+  filters: 64
+  lr: 0.001
+  lstm_units: 32
+optimizer: Hybrid ALOA + PSO
+target: Contamination_Index
+time_steps: 5
